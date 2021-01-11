@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 <h3>Geovane in few words</h3>
 I love development and entrepreneurship. I have worked on projects for both mobile apps (hybrid and native), webs, and apis developments with node.js and custom fronts. My strong point is the motivation for the quality of the software. I love the clean code philosophy, the bdd methodology, guided test programming, and I dream of clean and maintainable projects. Unit tests are necessary to define the quality of the project and avoid errors, well-made software is expensive. There is nothing I like more than finding the best solution to a problem. I love Pas platforms like Google cloud, and everything that the devops philosophy has meant. I love challenges and overcoming.
 
-
-
-
-
+<br>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"><img alt="React" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465"><img alt="Webpack" src="https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&amp;logo=webpack&amp;logoColor=white" style="max-width:100%;"></a> 
