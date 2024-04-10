@@ -78,8 +78,6 @@ With a proven ability to exceed expectations and build fruitful partnerships acr
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
 
