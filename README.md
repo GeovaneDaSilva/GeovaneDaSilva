@@ -22,7 +22,7 @@ geovane
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://inmigrausa.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://inmigrausa.com">Geovane</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@ geovane
   <samp>
     <a href="https://www.google.com/search?q=Geovane+Da+Silva">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Florida</b> 」
     <br>
     <br>
   </samp>
