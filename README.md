@@ -70,6 +70,11 @@ geovane
  📧 &emsp; Reach me anytime: geovaneartedesign@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/geovanedasilva/issues)
 
+ I am a DevOps certified Software Developer and Application Architect with a proven track record of over 6 years in leading and executing architecture-level solutions across various industries. My expertise spans full-stack development, mobile app development using Flutter, and proficiency in DevOps practices.
+At Positive Behavior Supports Corp, I led the development of a mobile application aimed at assisting immigrants, showcasing my commitment to leveraging technology for social good. Additionally, I've tackled complex projects involving sockets and Arduino, demonstrating my versatility and problem-solving abilities.
+During my tenure at Multi-Pak Services, I implemented an order shipping registration system, leading to a 15x increase in sales while optimizing resources. As both a programmer and IT repairman, I managed networks, routers, and all technological equipment, highlighting my diverse skill set.
+With a proven ability to exceed expectations and build fruitful partnerships across organizational levels, I am eager to bring my expertise to a new role where I can continue driving innovation and delivering impactful solutions.
+
 </p>
 
 <br/>
