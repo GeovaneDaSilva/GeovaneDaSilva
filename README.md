@@ -70,10 +70,10 @@ geovane
  📧 &emsp; Reach me anytime: geovaneartedesign@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/geovanedasilva/issues)
 
- I am a DevOps certified Software Developer and Application Architect with a proven track record of over 6 years in leading and executing architecture-level solutions across various industries. My expertise spans full-stack development, mobile app development using Flutter, and proficiency in DevOps practices.
-At Positive Behavior Supports Corp, I led the development of a mobile application aimed at assisting immigrants, showcasing my commitment to leveraging technology for social good. Additionally, I've tackled complex projects involving sockets and Arduino, demonstrating my versatility and problem-solving abilities.
-During my tenure at Multi-Pak Services, I implemented an order shipping registration system, leading to a 15x increase in sales while optimizing resources. As both a programmer and IT repairman, I managed networks, routers, and all technological equipment, highlighting my diverse skill set.
-With a proven ability to exceed expectations and build fruitful partnerships across organizational levels, I am eager to bring my expertise to a new role where I can continue driving innovation and delivering impactful solutions.
+As a seasoned DevOps certified Software Developer and Application Architect, I bring over 6 years of comprehensive experience in leading and executing architecture-level solutions across diverse industries. My expertise encompasses full-stack development, mobile app development with Flutter, and a strong command of DevOps methodologies. I excel in leading teams, providing architectural guidance, and ensuring the successful delivery of projects from ideation to implementation.
+In my recent role at Positive Behavior Supports Corp, I spearheaded the development of a mobile application aimed at assisting immigrants, showcasing my commitment to leveraging technology for societal impact. Additionally, I've tackled complex projects involving sockets and Arduino, demonstrating my versatility and problem-solving skills.
+One of my significant achievements includes my tenure at Multi-Pak Services, where I implemented an order shipping registration system, resulting in a 15x increase in sales while optimizing resources. Beyond programming, I managed IT operations, maintaining networks, routers, and all technological equipment, highlighting my multifaceted skill set.
+With a track record of exceeding expectations and fostering valuable partnerships at all organizational levels, I am adept at driving innovation and delivering tangible results. I am now seeking opportunities to leverage my skills and experience in a dynamic environment where I can continue to make meaningful contributions.
 
 </p>
 
