@@ -41,7 +41,7 @@ geovane
  <a href="https://geovane.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="geovane" />
  </a>
- <a href="[https://www.linkedin.com/in/geovane-da-silva](https://www.linkedin.com/in/geovane-da-silva/)" target="_blank">
+ <a href="https://www.linkedin.com/in/geovane-da-silva" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="geovane"/>
  </a>
  <!-- <a href="https://dev.to/geovane" target="_blank">
